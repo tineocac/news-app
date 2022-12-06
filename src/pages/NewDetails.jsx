@@ -1,11 +1,9 @@
 import React from 'react';
 
-const NewDetails = () => {
+export const NewDetails = () => {
     return (
         <div>
             <h1>This is my New Details page</h1>
         </div>
     );
 };
-
-export default NewDetails
